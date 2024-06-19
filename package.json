@@ -1,0 +1,11 @@
+{
+  "name": "tb-cli",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "viem": "^2.15.1"
+  }
+}
